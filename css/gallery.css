@@ -1,0 +1,16 @@
+.gallery {
+    width: 978px;
+    height: auto;
+    margin: 24px auto;
+    vertical-align: middle;
+    text-align: center;
+}
+.gallery img {
+    margin: 24px 1% 24px 1%;
+    max-width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+.gallery img:hover {
+    transform: scale(1.1);
+}
