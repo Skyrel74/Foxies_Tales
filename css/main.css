@@ -549,3 +549,12 @@ footer ul.social_profiles li a,
 .contacts li a:hover {
 	color: #58c93a;
 }
+
+.main .post h2.title {
+	font-family: 'LatoBold', 'Helvetica', arial;
+	font-weight: bold;
+	font-size: 28px;
+	text-transform: uppercase;
+	line-height: 30px;
+	margin-bottom: 50px;
+}
